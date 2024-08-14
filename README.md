@@ -4,9 +4,9 @@
 - correro: aaronreyesga10@gmail.com
 
 ## Actividad 1
-- Programa 1
-- Programa 2
-
+-  p01_HolaMundo
+-  p02_AreaCirculo
+-  p03_AreaTriangulo
 ## Actividad 2
 - Programa 3
 - Programa 4 
