@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class p09_DividirEnCifras {
     public static void main(String[] args) {
-        // Limpiar la consola (esto puede no funcionar en todos los entornos)
+        
         System.out.print("\033[H\033[2J");
         System.out.flush();
 
