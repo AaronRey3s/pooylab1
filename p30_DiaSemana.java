@@ -1,4 +1,3 @@
-
 // Dado un numero entre 1 y 7 imprime el dia de la semana
 import java.util.Scanner;
 
