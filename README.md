@@ -95,6 +95,9 @@
 - p63_SumaTerminos1
 - p64_SumaTerminos2
 
+## Practica 5
+- p65_SistemaPapeleria 
+
 ## Examen 1
 - pe01_PrimerExamenParcial
 
