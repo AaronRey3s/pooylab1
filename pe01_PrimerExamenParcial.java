@@ -83,7 +83,6 @@ public class pe01_PrimerExamenParcial {
         } else {
             promedioEdad = 0;
         }
-        
         int dineroTotal = dineroAlumnos + dineroDocentes + dineroTrabajadores;
 
         System.out.println("\nResumen:");
