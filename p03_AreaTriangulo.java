@@ -4,19 +4,19 @@ import java.util.Scanner;
 
 public class p03_AreaTriangulo {
     public static void main(String[] args) {
-        int base, altura;
+        int bas, altura;
         double area;
         Scanner obj = new Scanner(System.in);
 
         System.out.println("\nCalculando el área de un triángulo\n");
         System.out.print("Dame la base ? ");
-        base = obj.nextInt();
+        bas = obj.nextInt();
         System.out.print("Dame la altura ? ");
         altura = obj.nextInt();
 
-        area = (base * altura) /2;
+        area = (bas * altura) /2;
 
         System.out.println( String.format("El triángulo de base %d y altura %d tiene un área de %.2f",
-        base, altura, area) );
+        bas, altura, area) );
     }
 }
