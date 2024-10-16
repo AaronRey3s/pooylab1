@@ -23,6 +23,7 @@ public class App {
         miequipo.agregarJugador(new JugadorActivo("Ernesto Galvan", 'H', "Principal No 10", 900, 5, 3));
         miequipo.agregarJugador(new JugadorActivo("Andy Juarez", 'H', "Principal No 16", 900, 5, 3));
         miequipo.agregarJugador(new JugadorActivo("Juan Romero", 'H', "Principal No 4", 900, 5, 3));
+        miequipo.agregarJugador(new JugadorActivo("Neri Juarez", 'H', "Banca No 77", 300, 5, 2));
         miequipo.reporte();
     }
 }

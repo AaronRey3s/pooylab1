@@ -1,5 +1,6 @@
 package p113_SegundoExamenParcial;
 
+
 public abstract class Jugador {
     private String nombre;
     private char sexo;

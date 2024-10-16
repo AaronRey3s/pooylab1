@@ -1,5 +1,6 @@
 package p113_SegundoExamenParcial;
 
+
 public class JugadorActivo extends Jugador {
     private int partidos;
     private int goles;

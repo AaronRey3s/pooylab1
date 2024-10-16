@@ -52,14 +52,8 @@ public class Equipo {
 
     @Override
     public String toString() {
-        return "Equipo{" +
-                "nombre='" + nombre + '\'' +
-                ", liga='" + liga + '\'' +
-                ", jugadores=" + jugadores.size() +
-                ", totalBono=" + getTotalBono() +
-                ", total=" + getTotal() +
-                ", totalHombres=" + getTotalH() +
-                ", totalMujeres=" + getTotalM() +
-                '}';
+        return "Equipo{" + "nombre='" + nombre + '\'' + ", liga='" + liga + '\'' + ", jugadores=" + jugadores.size()
+                + ", totalBono=" + getTotalBono() + ", total=" + getTotal() + ", totalHombres=" + getTotalH()
+                + ", totalMujeres=" + getTotalM() + '}';
     }
 }
