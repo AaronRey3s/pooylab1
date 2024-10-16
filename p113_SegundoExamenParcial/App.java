@@ -4,7 +4,7 @@ public class App {
     public static void main(String[] args) {
         System.out.print("\033[H\033[2J");
         System.out.flush();
-        Equipo miequipo = new Equipo("Limones", "Torneo la Bombonera");
+        Equipo miequipo = new Equipo("Wolves", "Liga de Futbol Trancoso");
         miequipo.reporte();
         miequipo.agregarJugador(new JugadorEntrenador("Cesar Tamayo", 'H', "Entrenador Principal", 1000, 8, 1));
         miequipo.agregarJugador(new JugadorEntrenador("Emmanuel Romero", 'H', "Principal No 7", 900, 10, 2));
