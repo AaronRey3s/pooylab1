@@ -53,4 +53,11 @@ public class Jugador implements Serializable{
     public void setSalario(double salario) {
         this.salario = salario;
     }
+    @Override
+    public String toString() {
+        return "Jugador [nombre=" + nombre + ", edad=" + edad + ", sexo=" + sexo + ", estadocivil=" + estadocivil
+                + ", descripcion=" + descripcion + ", salario=" + salario + "]";
+    }
+
+    
 }

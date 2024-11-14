@@ -219,4 +219,6 @@ public class App extends JFrame implements ActionListener {
         app.datos = new ArrayList<>(); 
         app.activarCampos(false);
     }
+
+    
 }

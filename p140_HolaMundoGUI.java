@@ -6,8 +6,8 @@ public class p140_HolaMundoGUI extends JFrame {
 
     public p140_HolaMundoGUI() {
         setLayout(null);
-        lblSaludo = new JLabel("Hola Mundo.");
-        lblSaludo.setFont(new Font("Times New Roman ", Font.BOLD, 30));
+        lblSaludo = new JLabel("Te quiero niña <3");
+        lblSaludo.setFont(new Font("Times New Roman ", Font.BOLD, 20));
         lblSaludo.setBounds(10, 20, 200, 30);
         add(lblSaludo);
     }
